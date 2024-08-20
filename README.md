@@ -1,7 +1,7 @@
 # GenZ Data Science Evaluation
 ## Submission Instructions
 
-To submit your solution for all 4 problems, please follow these steps:
+To submit your solution for 2 problems, please follow these steps:
 
 ### Step 1: Install git on your PC
 - Install "git" as shown in this tutorial: [How to install git](https://youtu.be/iYkLrXobBbA?si=_l0haibv_X9NpIjJ)
@@ -35,7 +35,7 @@ To submit your solution for all 4 problems, please follow these steps:
 
 ### Step 5: Add Your Code
 - Create program files in the directory for each problem separately
-- For Example: LR1.py, TS1.py, and LR3.py
+- For Example: LR1.py, and TS1.py
 - Feel free to write the code in any desired language
 
 ### Step 6: Commit your changes
