@@ -1,4 +1,4 @@
-# Data-Science-Evaluation
+# GenZ Data Science Evaluation
 ## Submission Instructions
 
 To submit your solution for all 4 problems, please follow these steps:
