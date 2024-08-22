@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.preprocessing import StandardScaler
 
-st.title("Real Estate Price Prediction with Enhanced EDA")
+st.title("Real Estate Price Prediction")
 
 # Step 1: Data Loading
 train_file = st.file_uploader("Upload the Training Dataset", type="csv")
