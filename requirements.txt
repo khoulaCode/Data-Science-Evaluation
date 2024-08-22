@@ -1,7 +1,9 @@
 streamlit
 pandas
 numpy
+seaborn
 matplotlib
 scikit-learn
-prophet
 altair
+statsmodels
+prophet
