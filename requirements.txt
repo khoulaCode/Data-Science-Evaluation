@@ -9,3 +9,5 @@ scikit-learn==1.2.2
 statsmodels==0.13.5
 prophet==1.1.2
 pmdarima==2.0.3
+altair==4.2.0
+holidays==0.14.2
